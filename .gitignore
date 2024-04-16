@@ -1,0 +1,5 @@
+.vscode
+
+build_*/
+install_*/
+deb_package/
